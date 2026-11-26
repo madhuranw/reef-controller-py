@@ -1,0 +1,7 @@
+# Reef Controller — Python dependencies
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pyyaml>=6.0
+psutil>=6.0.0
+python-kasa>=0.7.0
+aiosmtpd>=1.4.0
